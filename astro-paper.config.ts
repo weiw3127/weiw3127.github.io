@@ -30,7 +30,6 @@ export default defineAstroPaperConfig({
   socials: [
     { name: "github",   url: "https://github.com/weiw3127" },
     { name: "linkedin", url: "https://www.linkedin.com/in/weilingw/" },
-    { name: "mail",     url: "bwlw3127@gmail.com" },
     { name: "substack", url: "https://substack.com/@weiwstack",},
   ],
   shareLinks: [
