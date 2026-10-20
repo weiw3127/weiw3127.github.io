@@ -28,10 +28,10 @@ const items = await Promise.all(
       Icon ? (
         <LinkButton href={url} class="p-2 hover:rotate-6 sm:p-1" title={title}>
           <Icon
-            class={`inline-block size-6 scale-125 sm:scale-110 fill-transparent stroke-current stroke-2 opacity-90 group-hover:fill-transparent ${
+            class={`inline-block fill-transparent stroke-current stroke-2 opacity-90 group-hover:fill-transparent ${
               name === "substack"
                 ? "size-5"
-                : "size-6"
+                : "size-6 scale-125 sm:scale-110"
             }`}
           />
           <span class="sr-only">{title}</span>
