@@ -6,10 +6,8 @@ featured: false
 draft: false
 tags:
   - machine-learning
-  - ml-monitoring
-  - data-drift
+canonicalURL: "https://weiwstack.substack.com/p/is-it-time-to-retrain-my-model"
 ---
-
 One day, I spotted something strange on my dashboard: a swarm of suspicious, nearly identical domains, all seemingly imitating the same big brand. I can’t share the real names, but imagine seeing net-flix.com, net.flix.com, and a lot more like them.
 
 My instincts kicked in right away. Usually, big brands like this would send emails through a small, stable set of domains. Suddenly having so many aliases was pretty unusual.
