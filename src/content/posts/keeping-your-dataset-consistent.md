@@ -7,9 +7,7 @@ featured: true
 draft: false
 tags:
   - machine-learning
-  - data-annotation
-  - data-quality
-canonicalURL: "https://substack.com/@weiwstack/p-221229221"
+canonicalURL: "https://weiwstack.substack.com/p/keeping-your-dataset-consistent"
 ---
 Managing annotation projects is exhausting. 
 
